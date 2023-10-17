@@ -39,6 +39,7 @@
         android:textSize="20dp" />
 
     <EditText
+        android:id="@+id/edtHeight"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_gravity="center_horizontal"
@@ -57,6 +58,7 @@
         android:textSize="20dp" />
 
     <EditText
+        android:id="@+id/edtWeight"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_gravity="center_horizontal"
@@ -71,6 +73,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginEnd="30dp"
         android:background="#0084e3"
+        android:onClick="Tinh_BMI_Click"
         android:text="CALCULATE"
         android:textColor="#fff"
         android:textSize="35dp" />
@@ -84,19 +87,19 @@
         android:textSize="30dp" />
 
     <TextView
+        android:id="@+id/tvBMI"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="15dp"
-        android:text="23.5"
         android:textSize="30dp" />
 
     <TextView
+        android:id="@+id/tv_KetLuan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="15dp"
-        android:text="Normal"
         android:textSize="30dp" />
 
 </LinearLayout>

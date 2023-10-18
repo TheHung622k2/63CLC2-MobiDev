@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         dsBaiHat.add("Bài thánh ca buồn");
         // Bước 2: Tạo Adapter
         ArrayAdapter<String> adapterBH;
-        adapterBH = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, dsBaiHat);
+        adapterBH = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, dsBaiHat);
         // Bước 3: Gắn Adapter
         listViewBaiHat.setAdapter(adapterBH);
         // Bước 4: Bắt sự kiện để xử lý

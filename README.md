@@ -7,3 +7,5 @@
 ### Btvn tuần 6:
 - [App tính bmi](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/AppTinhBMI)
 - [App tính các phép toán số học cơ bản](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/AppCacPhepToanSoHocCoBan)
+### Btvn tuần 7:
+- [Ví dụ 1_Intent](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/ViDu1_Intent)

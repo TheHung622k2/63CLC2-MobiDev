@@ -50,7 +50,7 @@ public class CountryAdapter extends BaseAdapter {
     public View getView(int i, View view, ViewGroup viewGroup) {
         // get Item's View for setting data (lấy view về để gán dữ liệu cho item)
         ControlHolder itemControlsHolder; // để trữ (store) các tham chiếu (refs) đến file .xml
-        if (view == null) { // inflate (bơm) from layout item XML
+        if (view == null) { // inflate (bơm) from layout file "item_layout_country.xml"
             view = inflater.inflate(R.layout.item_layout_country, null);
             // set refs for controls
             itemControlsHolder = new ControlHolder();

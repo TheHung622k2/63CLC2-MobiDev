@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 
 public class NhapLieuActivity extends AppCompatActivity {
@@ -31,6 +32,11 @@ public class NhapLieuActivity extends AppCompatActivity {
         // Gửi kết quả trả về cho Activity đã gọi nó
         setResult(RESULT_OK, iKQnhapLieu);
         // Đóng Activity nhập liệu (này)
+        finish();
+    }
+
+    public void QuayVe(View v) {
+        // Đóng Activity nhập liệu (này) mà không gửi kết quả
         finish();
     }
 }

@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.phamthehung.vidu2_intent"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.phamthehung.vidu2_intent"

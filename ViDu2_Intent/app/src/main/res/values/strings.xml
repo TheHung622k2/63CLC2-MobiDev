@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ViDu2_Intent</string>
+    <string name="ho_ten">Họ Tên</string>
 </resources>

@@ -9,5 +9,5 @@
 - [App tính các phép toán số học cơ bản](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/AppCacPhepToanSoHocCoBan)
 ### Btvn tuần 7, 8:
 - [Ví dụ 1_Intent](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/ViDu1_Intent)
-- [Ví dụ 2_Intent](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/ViDu2_Intent)
+- [Ví dụ 2_Intent_Nang_Cao](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/ViDu2_Intent)
 ### Btvn tuần 9(Mid-term exam):

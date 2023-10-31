@@ -11,6 +11,5 @@
 ### Btvn tuần 7, 8(mid-term test):
 - [Ví dụ 1_Intent](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/ViDu1_Intent)
 - [Ví dụ 2_Intent_Nang_Cao](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/ViDu2_Intent)
-- [Bài thi giữa kỳ](https://github.com/TheHung622k2/63CLC2-MobiDev/tree/main/63134128_ThiGiuaKy)
   
 ### Btvn tuần 9:

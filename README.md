@@ -1,4 +1,4 @@
-# 👾Nơi lưu các dự án lập trình Android của tôi👾
+# Nơi lưu các dự án lập trình Android của tôi
 ## ✨About me
 - Tên: Phạm Thế Hùng
 - Lớp: 63-CNTT.CLC2

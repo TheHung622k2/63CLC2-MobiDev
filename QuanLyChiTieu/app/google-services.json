@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744460641545",
+    "project_id": "android-projects-c72af",
+    "storage_bucket": "android-projects-c72af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744460641545:android:35f679de3b68a8e3b55fd8",
+        "android_client_info": {
+          "package_name": "vn.com.phamthehung.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYI9qm-pVEPVSQS5VbeXjHaeKAdTD0qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

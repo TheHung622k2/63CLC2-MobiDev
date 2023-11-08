@@ -28,7 +28,7 @@ public class ThemTaskActivity extends AppCompatActivity {
             public void onClick(View v) {
                 // Lấy dữ liệu
                 EditText editTextName = findViewById(R.id.editTextTenCV);
-                EditText editTextMess = findViewById(R.id.editTextMesage);
+                EditText editTextMess = findViewById(R.id.editTextMessage);
                 EditText editTextDate = findViewById(R.id.editTextDate);
                 EditText editTextPrio = findViewById(R.id.editTextPrio);
 

@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Lắng nghe và xủ lý sk
         // Tạo một ArrayList dùng để lưu data từ CSDL sau khi nó được truy vấn
-        lstVCL = new ArrayList<TASKS>();
+        lstVCL = new ArrayList<>();
         // Thêm sự kiện lắng nghe vào 'databaseReference'
         // Sự kiện này là một 'ValueEventListener': đc sử dụng để lắng nghe sự thay đổi dữ liệu tại Node gốc
         databaseReference.addValueEventListener(ngheFB);

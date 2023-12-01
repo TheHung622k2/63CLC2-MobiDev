@@ -64,11 +64,9 @@ public class BookNavigationActivity extends AppCompatActivity {
     View.OnClickListener xuLyFirst = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            if (!conTroBanGhi.isLast()) {
-                conTroBanGhi.moveToNext();
+                conTroBanGhi.moveToFirst();
                 // Lấy dữ liệu và cập nhật lên màn hình
                 capNhatManHinhTheoConTro();
-            }
         }
     };
 }
